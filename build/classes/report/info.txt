@@ -1,0 +1,5 @@
+Por conter nomes de terceiros, os arquivos abaixo foram removidos desta pasta report (/Academia/src/report)
+
+report01.jasper
+report02.jasper
+report03.jasper
